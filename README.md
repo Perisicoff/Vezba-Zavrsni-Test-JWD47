@@ -1,4 +1,4 @@
-# Vezba-Zavrsni-Test-JWD47
+# Vezba-Zavrsni-Test-Tenis
 
 Tehnologije:
 
